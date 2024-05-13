@@ -12,7 +12,7 @@ portable RSA implementation in pure Rust
 
 A portable RSA implementation in pure Rust.
 
-## Example
+# Example
 
 ```
 rust
@@ -48,7 +48,7 @@ assert_eq!(&data[..], &dec_data[..]);
 > opt-level = 3
 > ```
 
-## Status
+# Status
 
 Currently at Phase 1 (v) 🚧
 
