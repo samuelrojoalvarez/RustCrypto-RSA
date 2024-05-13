@@ -14,7 +14,7 @@ A portable RSA implementation in pure Rust.
 
 ## Example
 
-'''rust
+```rust
 use rsa::{Pkcs1v15Encrypt, RsaPrivateKey, RsaPublicKey};
 
 let mut rng = rand::thread_rng();
@@ -43,7 +43,7 @@ assert_eq!(&data[..], &dec_data[..]);
 > ```toml
 > [profile.dev.package.num-bigint-dig]
 > opt-level = 3
-> '''
+> ```
 
 ## Status
 
