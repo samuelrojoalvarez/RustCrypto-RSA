@@ -1,5 +1,5 @@
 # RustCrypto-RSA
-portable RSA implementation in pure Rust
+Portable RSA implementation in pure Rust
 
 # [RustCrypto]: RSA
 
